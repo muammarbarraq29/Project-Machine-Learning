@@ -1,0 +1,51 @@
+Country,Region,Continent,Population_M,New_Cases_2022,Deaths_2022,Incidence_Rate_Per_100K,Mortality_Rate_Per_100K,Five_Year_Survival_Pct,Stage_I_II_Pct,Screening_Program,Mammography_Coverage_Pct,Treatment_Access_Score
+United States,North America,Americas,331.9,287850,43250,89.4,13.0,91.0,66,True,72.4,95
+China,East Asia,Asia,1412.0,357000,75000,29.0,5.4,82.0,45,True,22.5,72
+India,South Asia,Asia,1408.0,195000,99000,25.8,12.7,66.0,30,False,8.2,48
+Brazil,South America,Americas,214.3,73610,18360,46.8,11.9,75.5,42,True,35.0,65
+United Kingdom,Northern Europe,Europe,67.3,55920,11400,93.6,14.2,87.0,68,True,71.0,93
+Germany,Western Europe,Europe,83.2,69900,18570,90.5,16.5,88.0,72,True,55.0,94
+France,Western Europe,Europe,67.8,61210,12150,99.1,15.6,87.5,70,True,52.0,93
+Japan,East Asia,Asia,125.7,94000,15800,76.3,10.6,92.2,58,True,44.7,90
+Australia,Oceania,Oceania,25.7,20600,3100,88.7,11.0,91.5,70,True,55.0,96
+Canada,North America,Americas,38.2,28600,5500,83.5,12.2,89.0,67,True,62.0,94
+Italy,Southern Europe,Europe,59.6,55700,12300,92.6,15.8,87.0,65,True,57.0,92
+Spain,Southern Europe,Europe,47.4,34750,6600,78.9,11.6,86.0,63,True,67.0,91
+South Korea,East Asia,Asia,51.7,25500,2800,64.2,6.4,93.6,62,True,66.5,92
+Russia,Eastern Europe,Europe,144.1,74500,22900,48.0,14.4,72.0,38,True,30.0,60
+Mexico,Central America,Americas,130.0,29929,7920,32.8,10.6,70.0,35,False,22.0,55
+Turkey,Western Asia,Asia,85.3,24800,5500,46.8,10.0,80.0,48,True,38.0,72
+Indonesia,Southeast Asia,Asia,273.8,65858,22000,36.2,11.8,60.0,25,False,5.0,40
+Nigeria,West Africa,Africa,218.5,28000,15500,31.8,17.0,30.0,15,False,2.0,22
+South Africa,Southern Africa,Africa,59.9,12000,5200,41.0,15.5,40.0,20,False,12.0,38
+Egypt,North Africa,Africa,109.3,23000,10500,38.7,16.2,55.0,28,False,10.0,45
+Pakistan,South Asia,Asia,231.4,34000,18500,34.5,15.6,45.0,18,False,3.0,30
+Bangladesh,South Asia,Asia,169.4,14000,8200,19.3,10.7,48.0,20,False,2.5,28
+Vietnam,Southeast Asia,Asia,98.2,21555,6800,34.0,9.8,70.0,32,False,10.0,55
+Thailand,Southeast Asia,Asia,71.8,22000,6300,37.8,10.9,72.0,35,True,25.0,62
+Philippines,Southeast Asia,Asia,113.9,28000,10000,32.5,11.0,58.0,22,False,5.5,38
+Iran,Western Asia,Asia,87.9,15000,5000,30.5,8.8,72.0,40,True,18.0,60
+Argentina,South America,Americas,46.0,21500,5700,73.2,17.5,76.0,45,True,42.0,70
+Colombia,South America,Americas,51.9,15500,4400,44.1,11.5,72.0,38,True,30.0,60
+Poland,Eastern Europe,Europe,37.7,18600,6500,62.5,16.0,78.0,50,True,42.0,75
+Netherlands,Western Europe,Europe,17.5,17100,3100,100.5,16.0,88.0,72,True,80.0,95
+Belgium,Western Europe,Europe,11.6,11500,2400,113.2,18.4,87.0,68,True,62.0,94
+Sweden,Northern Europe,Europe,10.4,9200,1400,89.7,11.2,90.0,72,True,70.0,96
+Denmark,Northern Europe,Europe,5.9,5300,1100,105.8,19.4,87.5,70,True,76.0,95
+Norway,Northern Europe,Europe,5.4,3800,650,86.2,10.8,90.5,73,True,76.0,96
+Switzerland,Western Europe,Europe,8.7,6200,1350,87.3,13.5,88.0,70,True,55.0,96
+Israel,Western Asia,Asia,9.4,5000,1050,80.6,13.5,88.0,65,True,72.0,93
+New Zealand,Oceania,Oceania,5.1,3600,650,83.2,12.0,89.5,68,True,70.0,95
+Singapore,Southeast Asia,Asia,5.9,2600,500,65.4,10.4,84.0,55,True,40.0,92
+Malaysia,Southeast Asia,Asia,32.8,8400,3100,38.7,12.5,65.0,30,True,20.0,60
+Saudi Arabia,Western Asia,Asia,36.0,3200,800,24.5,6.2,78.0,42,True,18.0,76
+UAE,Western Asia,Asia,9.9,1200,250,30.2,5.5,82.0,50,True,30.0,85
+Kenya,East Africa,Africa,54.0,7600,4300,28.4,15.7,35.0,18,False,3.5,25
+Ghana,West Africa,Africa,33.5,4500,2300,25.0,12.0,42.0,15,False,2.0,28
+Ethiopia,East Africa,Africa,123.4,18000,11000,22.0,14.0,28.0,12,False,1.5,18
+Morocco,North Africa,Africa,37.5,12000,4200,40.0,11.2,60.0,30,False,14.0,50
+Tanzania,East Africa,Africa,63.6,5500,3800,16.5,10.7,25.0,10,False,1.0,15
+Uganda,East Africa,Africa,47.2,4800,3200,21.5,13.6,30.0,12,False,1.5,18
+Peru,South America,Americas,33.7,7000,2400,29.1,8.7,70.0,35,True,20.0,58
+Chile,South America,Americas,19.5,5200,1700,37.1,9.1,78.0,48,True,38.0,72
+Cuba,Caribbean,Americas,11.3,3900,1200,42.3,11.0,72.0,40,True,45.0,65

@@ -1,0 +1,21 @@
+Stage,Income_Region,One_Year_Survival_Pct,Five_Year_Survival_Pct,Ten_Year_Survival_Pct,Typical_Treatment,Pct_Diagnosed_At_Stage
+Stage 0 (DCIS),High-Income,100.0,99.5,98.0,Surgery ± radiation,20
+Stage 0 (DCIS),Upper-Middle,99.5,97.0,92.0,Surgery ± radiation,12
+Stage 0 (DCIS),Lower-Middle,98.0,90.0,80.0,Surgery,5
+Stage 0 (DCIS),Low-Income,95.0,82.0,70.0,Surgery (limited),2
+Stage I,High-Income,100.0,99.0,95.0,Surgery + radiation ± hormone therapy,30
+Stage I,Upper-Middle,99.0,92.0,85.0,Surgery + radiation,18
+Stage I,Lower-Middle,96.0,80.0,68.0,Surgery ± radiation,10
+Stage I,Low-Income,90.0,65.0,50.0,Surgery (often delayed),5
+Stage II,High-Income,98.0,93.0,85.0,Surgery + chemo + radiation + hormone,35
+Stage II,Upper-Middle,95.0,82.0,72.0,Surgery + chemo + radiation,25
+Stage II,Lower-Middle,88.0,65.0,50.0,Surgery + chemo,18
+Stage II,Low-Income,78.0,45.0,30.0,Surgery ± chemo (limited access),12
+Stage III,High-Income,92.0,72.0,55.0,Chemo + surgery + radiation + targeted,12
+Stage III,Upper-Middle,82.0,55.0,38.0,Chemo + surgery + radiation,22
+Stage III,Lower-Middle,68.0,38.0,22.0,Chemo + surgery,30
+Stage III,Low-Income,50.0,22.0,12.0,Chemo ± surgery (limited),35
+Stage IV,High-Income,65.0,28.0,12.0,Systemic therapy + targeted + palliative,3
+Stage IV,Upper-Middle,50.0,18.0,7.0,Systemic therapy + palliative,23
+Stage IV,Lower-Middle,35.0,10.0,3.0,Chemo + palliative (limited),37
+Stage IV,Low-Income,22.0,5.0,1.5,Palliative care (often limited),46

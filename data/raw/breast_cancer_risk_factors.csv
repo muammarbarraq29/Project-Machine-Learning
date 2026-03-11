@@ -1,0 +1,13 @@
+Risk_Factor,Category,Relative_Risk,Population_Attributable_Fraction_Pct,Evidence_Level,Description,Modifiable
+Age (50+),Unchangeable,3.0,30.0,Strong,Risk increases with age; most cases diagnosed after 50,False
+BRCA1/BRCA2 Mutations,Unchangeable,5.5,5.0,Strong,Inherited gene mutations increase lifetime risk to 45-72%,False
+Family History,Unchangeable,2.1,12.0,Strong,First-degree relative with breast cancer doubles the risk,False
+Dense Breast Tissue,Unchangeable,2.0,16.0,Strong,Dense breasts make cancer harder to detect on mammogram,False
+Early Menarche (<12),Unchangeable,1.3,8.0,Moderate,Longer lifetime exposure to estrogen and progesterone,False
+Late Menopause (>55),Unchangeable,1.3,5.0,Moderate,Extended exposure to reproductive hormones,False
+Obesity (Post-Menopause),Lifestyle,1.5,10.0,Strong,"Excess fat tissue produces estrogen, fueling hormone-receptor-positive cancers",True
+Alcohol Consumption,Lifestyle,1.5,7.0,Strong,Risk increases 7-10% per standard drink per day,True
+Physical Inactivity,Lifestyle,1.3,9.0,Strong,Regular exercise lowers estrogen levels and strengthens immune system,True
+Hormone Therapy (HRT),Lifestyle,1.7,4.0,Strong,Combined estrogen-progestin HRT for >5 years increases risk,True
+Radiation Exposure (Chest),Unchangeable,4.0,1.5,Strong,Radiation therapy to chest before age 30 significantly raises risk,False
+Nulliparity / Late First Birth,Unchangeable,1.4,6.0,Moderate,Never having children or first child after 30 increases lifetime risk,False

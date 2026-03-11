@@ -1,18 +1,6 @@
 # 🎀 Breast Cancer Global ML Project
 **WHO GBCI — Predictive Analytics | Dataset: Kaggle (zkskhurram) 2022–2025**
 
-## Quick Start
-
-```bash
-# 1. Install dependencies
-pip install -r requirements.txt
-
-# 2. Run full ML pipeline (trains all models, generates all reports)
-python main.py
-
-# 3. Launch Streamlit dashboard
-streamlit run app/streamlit_app.py
-```
 
 ## Project Structure
 
